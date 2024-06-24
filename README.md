@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋🏼
 
-<!--
-**Zaskkii/Zaskkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Blockchain Developer and Cryptocurrency Enthusiast
 
-Here are some ideas to get you started:
+- 🌐 [Website](https://)
+- 💼 [LinkedIn](https://www.linkedin.com)
+- 📫 [Email](isaac.s.ginard@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### 🗳️ [Blockchain Voting System](https://github.com/zaskkii/voting-system)
+A decentralised voting system implemented on Ethereum using Solidity and Truffle.
+
+### 🔐 [Secure Smart Contracts](https://github.com/zaskkii/smart-contracts)
+A set of smart contracts designed for various applications.
+
+### 📚 [Solidity Tutorials and Examples](https://github.com/zaskkii/solidity-examples)
+Repository with examples and tutorials on how to program in Solidity.
